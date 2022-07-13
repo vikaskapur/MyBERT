@@ -11,5 +11,6 @@ Applying BERT's tokenizer for data preprocessing for building Sentimental Analys
 ### 2. Using BERT's Embedding 
 Applying BERT's embedding for building Sentimental Analyser with CNN for Text Classification Model
 
-
+### 3. Fine-tuning BERT 
+Fine-tuning BERT to do Machine Reading Comprehension on SQUAD dataset. 
 
